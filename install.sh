@@ -10,7 +10,7 @@
 #rm *.macosx.zip
 
 # wget ftp://ftp.ebi.ac.uk/pub/databases/msd/pdbechem/files/mmcif.tar.gz
-# tar -zxf mmcif.tar.gz
+tar -zxf dependencies/mmcif.tar.gz dependencies/
 # mv mmcif/* dependencies/mmcif/
 # rm -r mmcif*
 
